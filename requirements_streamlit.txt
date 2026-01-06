@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+pandas-gbq>=0.18.0
+plotly>=5.17.0
+google-cloud-bigquery>=3.4.0
+google-auth>=2.13.0
+google-auth-oauthlib>=1.2.0
+pydata-google-auth>=1.4.0
